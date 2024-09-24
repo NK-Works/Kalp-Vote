@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    cursor: default;
+}
+
+*::selection {
+    display: none;
+}
+
+body {
+    background-color: rgb(18, 18, 21);
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
