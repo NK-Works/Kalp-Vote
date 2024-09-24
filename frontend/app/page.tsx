@@ -397,8 +397,8 @@ export default function Home(): React.ReactNode {
            <iframe
               width="100%"
               height="100%"
-              src="https://www.youtube.com/embed/SFOREuAkk_4"
-              title="SIT223 Task-6.2C: CI CD with Jenkins and GitHub"
+              src="https://www.youtube.com/embed/UtXYrhk47XQ"
+              title="KalpVote"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerPolicy="strict-origin-when-cross-origin"
