@@ -65,10 +65,20 @@ export const useKalpApi = () => {
   };
 
   const voteForCandidate = async (name: string) => {
-    const endpoint = 'https://gateway-api.kalp.studio/v1/contract/kalp/query/X8pBKgjyQDf9EwpQFfATFd2uNqF9dv631727117986235/MintVote';
-    const args = { name };
+    const endpoint = 'https://gateway-api.kalp.studio/v1/contract/kalp/invoke/X8pBKgjyQDf9EwpQFfATFd2uNqF9dv631727117986235/MintVote';
+    
+
+    const args = Object.create(null);
+    args.name = name;
+  
+    const params = {
+      network: 'TESTNET',
+      blockchain: 'KALP',
+      walletAddress: '5023f7fc565eb7de7f6256a3be204e75fe575225',
+      args: args,
+    };
     return callApi(endpoint, args);
   };
-
+  
   return { getCandidate, voteForCandidate, loading, error };
 };
