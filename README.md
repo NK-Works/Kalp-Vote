@@ -83,3 +83,5 @@ The easiest way to deploy your Next.js application is by using **Netlify** or **
 - **Smart Contracts:** Developed using **Kalp SDK** and **GoLang**, managing the core voting logic and interaction with the blockchain ⚙️.
 
 Enjoy the seamless, transparent, and secure voting experience of KALP-VOTE! 🗳️
+
+Consider 🌟 the repository to show some love 🙏
