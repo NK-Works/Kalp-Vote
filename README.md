@@ -1,4 +1,4 @@
-# KALP-VOTE : The Blockchain-based Voting Application 🎉
+# KALP-VOTE : The Decentralized Voting Application 🎉
 
 ![Landing Page](screenshots/landing-page.png)
 
