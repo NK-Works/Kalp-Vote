@@ -75,7 +75,7 @@ To learn more about the technologies used in this project:
 
 ## Deployment
 
-The easiest way to deploy your Next.js application is by using **Netlify**. For more information on deploying your app, check out the official [Next.js deployment documentation](https://nextjs.org/docs/deployment).
+The easiest way to deploy your Next.js application is by using **Netlify** or **Vercel**. For more information on deploying your app, check out the official [Next.js deployment documentation](https://nextjs.org/docs/deployment).
 
 ## Project Structure
 
