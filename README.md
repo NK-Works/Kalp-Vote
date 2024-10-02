@@ -1,6 +1,6 @@
 # KALP-VOTE : The Blockchain-based Voting Application
 
-![Landing Page](public/screenshots/landing-page.png)
+![Landing Page](screenshots/landing-page.png)
 
 This is a **decentralized voting application** built using **Next.js** on the frontend and **Kalp Studio blockchain technology** to securely manage and track votes. The app allows users to cast votes for candidates, retrieve real-time results, and ensures transparency and immutability in voting transactions through the use of Kalp Studio's **Distributed Ledger Technology (DLT)**.
 
@@ -61,10 +61,10 @@ To get started with the project, follow these steps:
 Here are some key screenshots from the application to illustrate its features:
 
 ### Voting Page
-![Voting Page](public/screenshots/voting-page.png)
+![Voting Page](screenshots/voting-page.png)
 
 ### Modern UI
-![UI](public/screenshots/ui.png)
+![UI](screenshots/ui.png)
 
 ## Learn More
 
